@@ -9,4 +9,4 @@
 - 💬 Ask me about frontend and designing
 - 📫 How to reach me: linkedin 
 - ⚡ Fun fact: i have a great taste in music, bollywood specifically
--->
+
