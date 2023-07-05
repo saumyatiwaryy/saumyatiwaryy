@@ -1,12 +1,21 @@
-### Hi there I'm Saumya 👋
+👋 **Hello, I'm Saumya Tiwari!** 🚀
 
+🌟 Passionate Full Stack Developer with a Love for DSA and Web3! 💻🔗
 
+💡 **Tech Stack**: MERN (MongoDB, Express.js, React.js, Node.js) ⚙️ JavaScript, HTML, CSS
 
-- 🔭 I’m currently working on MERN and Web3
-- 🌱 I’m currently learning blockchain
-- 👯 I’m looking to collaborate on open source projects 
-- 🤔 I’m looking for help with backend developement
-- 💬 Ask me about frontend and designing
-- 📫 How to reach me: linkedin 
-- ⚡ Fun fact: i have a great taste in music, bollywood specifically
+🎨 **UI/UX Design**: Experienced in creating intuitive and engaging interfaces. 🎨
 
+🔍 **Problem-Solving Enthusiast**: Love solving complex problems through efficient algorithms and logical thinking. 💡
+
+🌐 **Web3 Enthusiast**: Excited about blockchain, DApps, and smart contracts. 🌐
+
+🚀 **Deployments**: Experienced in Netlify, Vercel, Render. 🌍
+
+💡 **Experience**: Building web applications, RESTful APIs, databases. 👨‍💻
+
+🔭 **Constant Learning**: Always staying updated with the latest trends. 📚
+
+📫 **Let's Connect**: [your-email@example.com](mailto:your-email@example.com) 📩
+
+✨ **Together, let's shape a better digital future with innovative web solutions and Web3!**
