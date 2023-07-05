@@ -16,6 +16,6 @@
 
 🔭 **Constant Learning**: Always staying updated with the latest trends. 📚
 
-📫 **Let's Connect**: [your-email@example.com](mailto:your-email@example.com) 📩
+📫 **Let's Connect**: (mailto:saumyatiwaryy@gmail.com) 📩
 
 ✨ **Together, let's shape a better digital future with innovative web solutions and Web3!**
