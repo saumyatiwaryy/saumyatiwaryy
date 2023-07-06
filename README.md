@@ -19,3 +19,6 @@
 📫 **Let's Connect**: (mailto:saumyatiwaryy@gmail.com) 📩
 
 ✨ **Together, let's shape a better digital future with innovative web solutions and Web3!**
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saumyatiwaryy&theme=nightowl&hide_border=true&border_radius=6)](https://git.io/streak-stats)
